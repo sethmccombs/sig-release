@@ -175,7 +175,7 @@ Code Freeze will typically fall around Weeks 8 or 9 depending on the length or r
 - Send a reminder email to k-dev 
 - Monitor [Testgrid](https://testgrid.k8s.io/) and [Prow](https://prow.k8s.io/) to understand the stability of the release and PRs getting ready to merge.  If Prow and Test grid are not in a good state consult folks from SIG Testing on delaying code freeze by a day if needed.  
 - LGTM / Approve and remove the hold on the PR for enabling code freeze.  [Example from 1.15 here](https://github.com/kubernetes/test-infra/pull/12808)
-- As meeded assist the Bug Triage lead and Enhancements lead removing PRs and enhancements from the milestone that aren't merged in time
+- As needed assist the Bug Triage lead and Enhancements lead removing PRs and enhancements from the milestone that aren't merged in time
 
 ### Week 10
 
